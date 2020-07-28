@@ -1,0 +1,9 @@
+import rsCalculations.*;
+
+public class RuneScapeHelper
+{
+    public static void main(String args[])
+    {
+
+    }
+}
